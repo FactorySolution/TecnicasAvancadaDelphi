@@ -1,0 +1,52 @@
+unit myComponent;
+
+interface
+
+uses
+  System.Classes;
+
+
+procedure register;
+
+type
+
+  TMyNotifyEvent = procedure(AValue: string) of object;
+
+  TMyComponent = class(TComponent)
+  private
+    FOtherName: string;
+    FMyEvent: TMyNotifyEvent;
+    procedure SetOtherName(const Value: string);
+    procedure SetMyEvent(const Value: TMyNotifyEvent);
+  public
+    function LengthString(const AValue: string): Integer;
+  published
+    property OtherName: string read FOtherName write SetOtherName;
+    property MyEvent: TMyNotifyEvent read FMyEvent write SetMyEvent;
+  end;
+
+implementation
+
+procedure register;
+begin
+  RegisterComponents('Treinamento', [TMyComponent]);
+end;
+
+{ TMyComponent }
+
+function TMyComponent.LengthString(const AValue: string): Integer;
+begin
+  Result := Length(AValue);
+end;
+
+procedure TMyComponent.SetMyEvent(const Value: TMyNotifyEvent);
+begin
+  FMyEvent := Value;
+end;
+
+procedure TMyComponent.SetOtherName(const Value: string);
+begin
+  FOtherName := Value;
+end;
+
+end.

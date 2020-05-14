@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/09/16 23:20:29.000.176,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/06 20:14:11.000.158,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/06 22:21:24.000.772,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/11 20:43:47.000.127,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/01 09:47:00.000.199,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/05/01 09:47:26.000.462,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Componentes\uComponente.dfm=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2020/05/01 09:47:26.000.462,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Componentes\uComponente.pas=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/05/01 09:47:32.000.477,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Componentes\Componente.dproj=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/05/01 09:51:51.000.740,=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Componentes\Unit1.pas</Transaction>
+    <Transaction>2020/05/01 09:52:01.000.061,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Componentes\myComponent.pas=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Componentes\Unit1.pas</Transaction>
+    <Transaction>2020/05/01 09:59:23.000.879,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Componentes\myComponent.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

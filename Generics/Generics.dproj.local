@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/24 19:54:27.000.732,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2020/05/04 20:31:22.000.116,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2020/05/04 20:31:41.000.416,C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit4.dfm=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\uMain.dfm</Transaction>
+    <Transaction>2020/05/04 20:31:41.000.416,C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit4.pas=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\uMain.pas</Transaction>
+    <Transaction>2020/05/04 20:31:49.000.455,C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Generics.dproj</Transaction>
+    <Transaction>2020/05/04 20:32:26.000.944,=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.pas</Transaction>
+    <Transaction>2020/05/04 20:33:15.000.466,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.pas=</Transaction>
+    <Transaction>2020/05/04 20:33:44.000.930,=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.pas</Transaction>
+    <Transaction>2020/05/04 20:34:01.000.948,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.pas=</Transaction>
+    <Transaction>2020/05/04 20:34:09.000.536,=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.pas</Transaction>
+    <Transaction>2020/05/04 20:34:19.000.088,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\List.pas=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.pas</Transaction>
+    <Transaction>2020/05/04 20:34:19.000.088,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\List.dfm=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.dfm</Transaction>
+    <Transaction>2020/05/04 20:35:24.000.067,=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.pas</Transaction>
+    <Transaction>2020/05/04 20:35:46.000.480,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Quee.dfm=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.dfm</Transaction>
+    <Transaction>2020/05/04 20:35:46.000.480,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Quee.pas=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.pas</Transaction>
+    <Transaction>2020/05/04 20:36:10.000.161,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Queue.dfm=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Quee.dfm</Transaction>
+    <Transaction>2020/05/04 20:36:10.000.161,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Queue.pas=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Quee.pas</Transaction>
+    <Transaction>2020/05/04 20:37:11.000.943,=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit3.pas</Transaction>
+    <Transaction>2020/05/04 20:37:17.000.248,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Method.dfm=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit3.dfm</Transaction>
+    <Transaction>2020/05/04 20:37:17.000.248,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Method.pas=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit3.pas</Transaction>
+    <Transaction>2020/05/04 20:41:00.000.101,=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.pas</Transaction>
+    <Transaction>2020/05/04 20:41:15.000.707,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Enum.dfm=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.dfm</Transaction>
+    <Transaction>2020/05/04 20:41:15.000.707,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Enum.pas=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.pas</Transaction>
+    <Transaction>2020/05/04 20:41:50.000.805,=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.pas</Transaction>
+    <Transaction>2020/05/04 20:42:02.000.018,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Basic.dfm=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.dfm</Transaction>
+    <Transaction>2020/05/04 20:42:02.000.018,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Basic.pas=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.pas</Transaction>
+    <Transaction>2020/05/04 20:45:31.000.181,=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.pas</Transaction>
+    <Transaction>2020/05/04 20:46:00.000.048,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Interfaces.dfm=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.dfm</Transaction>
+    <Transaction>2020/05/04 20:46:00.000.048,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Interfaces.pas=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.pas</Transaction>
+    <Transaction>2020/05/04 20:49:34.000.315,=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.pas</Transaction>
+    <Transaction>2020/05/04 20:50:20.000.335,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Generic.pas=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.pas</Transaction>
+    <Transaction>2020/05/04 20:50:20.000.335,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Generic.dfm=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Generics\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

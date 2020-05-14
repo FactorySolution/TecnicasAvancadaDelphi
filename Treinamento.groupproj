@@ -1,0 +1,132 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{B42A2A45-1C37-4484-8FD3-5E9CAD7C9DEE}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="eventos\Eventos.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Componentes\Componente.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Componentes\bpl\MyComponent.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="interfaces\Interfaces.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="RTTI\RTTI.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Ponteiro Inteligente\PonteiroInteligente.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Generics\Generics.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="MemoryLeak\MemoryLeak.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="InMemDB\InMemDB.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Eventos">
+        <MSBuild Projects="eventos\Eventos.dproj"/>
+    </Target>
+    <Target Name="Eventos:Clean">
+        <MSBuild Projects="eventos\Eventos.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Eventos:Make">
+        <MSBuild Projects="eventos\Eventos.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Componente">
+        <MSBuild Projects="Componentes\Componente.dproj"/>
+    </Target>
+    <Target Name="Componente:Clean">
+        <MSBuild Projects="Componentes\Componente.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Componente:Make">
+        <MSBuild Projects="Componentes\Componente.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="MyComponent">
+        <MSBuild Projects="Componentes\bpl\MyComponent.dproj"/>
+    </Target>
+    <Target Name="MyComponent:Clean">
+        <MSBuild Projects="Componentes\bpl\MyComponent.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="MyComponent:Make">
+        <MSBuild Projects="Componentes\bpl\MyComponent.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Interfaces">
+        <MSBuild Projects="interfaces\Interfaces.dproj"/>
+    </Target>
+    <Target Name="Interfaces:Clean">
+        <MSBuild Projects="interfaces\Interfaces.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Interfaces:Make">
+        <MSBuild Projects="interfaces\Interfaces.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="RTTI">
+        <MSBuild Projects="RTTI\RTTI.dproj"/>
+    </Target>
+    <Target Name="RTTI:Clean">
+        <MSBuild Projects="RTTI\RTTI.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="RTTI:Make">
+        <MSBuild Projects="RTTI\RTTI.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="PonteiroInteligente">
+        <MSBuild Projects="Ponteiro Inteligente\PonteiroInteligente.dproj"/>
+    </Target>
+    <Target Name="PonteiroInteligente:Clean">
+        <MSBuild Projects="Ponteiro Inteligente\PonteiroInteligente.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="PonteiroInteligente:Make">
+        <MSBuild Projects="Ponteiro Inteligente\PonteiroInteligente.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Generics">
+        <MSBuild Projects="Generics\Generics.dproj"/>
+    </Target>
+    <Target Name="Generics:Clean">
+        <MSBuild Projects="Generics\Generics.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Generics:Make">
+        <MSBuild Projects="Generics\Generics.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="MemoryLeak">
+        <MSBuild Projects="MemoryLeak\MemoryLeak.dproj"/>
+    </Target>
+    <Target Name="MemoryLeak:Clean">
+        <MSBuild Projects="MemoryLeak\MemoryLeak.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="MemoryLeak:Make">
+        <MSBuild Projects="MemoryLeak\MemoryLeak.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="InMemDB">
+        <MSBuild Projects="InMemDB\InMemDB.dproj"/>
+    </Target>
+    <Target Name="InMemDB:Clean">
+        <MSBuild Projects="InMemDB\InMemDB.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="InMemDB:Make">
+        <MSBuild Projects="InMemDB\InMemDB.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Eventos;Componente;MyComponent;Interfaces;RTTI;PonteiroInteligente;Generics;MemoryLeak;InMemDB"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Eventos:Clean;Componente:Clean;MyComponent:Clean;Interfaces:Clean;RTTI:Clean;PonteiroInteligente:Clean;Generics:Clean;MemoryLeak:Clean;InMemDB:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Eventos:Make;Componente:Make;MyComponent:Make;Interfaces:Make;RTTI:Make;PonteiroInteligente:Make;Generics:Make;MemoryLeak:Make;InMemDB:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

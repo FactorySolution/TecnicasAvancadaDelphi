@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/24 19:54:27.000.732,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2020/05/05 19:49:46.000.923,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2020/05/05 19:50:06.000.406,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\MemoryLeak\uMain.pas=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2020/05/05 19:50:06.000.406,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\MemoryLeak\uMain.dfm=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>2020/05/05 19:50:14.000.447,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\MemoryLeak\MemoryLeak.dproj=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2020/05/05 19:50:23.000.419,=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\MemoryLeak\Unit1.pas</Transaction>
+    <Transaction>2020/05/05 19:50:31.000.765,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\MemoryLeak\Interfaces.pas=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\MemoryLeak\Unit1.pas</Transaction>
+    <Transaction>2020/05/05 20:07:01.000.539,=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\MemoryLeak\Unit1.pas</Transaction>
+    <Transaction>2020/05/05 20:07:09.000.276,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\MemoryLeak\Utils.pas=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\MemoryLeak\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

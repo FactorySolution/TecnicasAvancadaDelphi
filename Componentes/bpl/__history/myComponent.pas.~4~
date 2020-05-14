@@ -1,0 +1,43 @@
+unit myComponent;
+
+interface
+
+uses
+  System.Classes;
+
+
+procedure register;
+
+
+type
+  TMyComponent = class(TComponent)
+  private
+    FOtherName: string;
+    procedure SetOtherName(const Value: string);
+
+  public
+    function LengthString(const AValue: string): Integer;
+  protected
+    property OtherName: string read FOtherName write SetOtherName;
+  end;
+
+implementation
+
+procedure register;
+begin
+  RegisterComponents('Treinamento', [TMyComponent]);
+end;
+
+{ TMyComponent }
+
+function TMyComponent.LengthString(const AValue: string): Integer;
+begin
+  Result := Length(AValue);
+end;
+
+procedure TMyComponent.SetOtherName(const Value: string);
+begin
+  FOtherName := Value;
+end;
+
+end.

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/05/01 09:57:12.000.754,=rtl.dcp</Transaction>
+    <Transaction>2020/05/01 09:57:52.000.392,=rtl.dcp</Transaction>
+    <Transaction>2020/05/01 09:58:26.000.671,C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Package1.dproj=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Componentes\bpl\MyComponent.dproj</Transaction>
+    <Transaction>2020/05/01 09:58:35.000.326,=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Componentes\bpl\Unit1.pas</Transaction>
+    <Transaction>2020/05/01 09:58:46.000.845,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Componentes\bpl\Unit1.pas=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Componentes\bpl\myCompoent.pas</Transaction>
+    <Transaction>2020/05/01 09:59:10.000.200,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Componentes\bpl\myCompoent.pas=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\Componentes\bpl\myComponent.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/09/16 23:20:29.000.176,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/06 20:14:11.000.158,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/06 22:21:24.000.772,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/11 20:43:47.000.127,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/01 10:31:01.000.131,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/05/01 10:31:20.000.809,C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\interfaces\uMainInterfaces.dfm</Transaction>
+    <Transaction>2020/05/01 10:31:20.000.809,C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\interfaces\uMainInterfaces.pas</Transaction>
+    <Transaction>2020/05/01 10:31:41.000.094,C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\interfaces\Interfaces.dproj</Transaction>
+    <Transaction>2020/05/01 10:38:30.000.336,=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\interfaces\Unit1.pas</Transaction>
+    <Transaction>2020/05/01 10:38:40.000.288,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\interfaces\Unit1.pas=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\interfaces\uInterfaces.pas</Transaction>
+    <Transaction>2020/05/01 10:40:41.000.516,=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\interfaces\Unit1.pas</Transaction>
+    <Transaction>2020/05/01 10:40:52.000.456,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\interfaces\Unit1.pas=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\interfaces\uResultadoSoma.pas</Transaction>
+    <Transaction>2020/05/01 10:42:30.000.283,=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\interfaces\Unit1.pas</Transaction>
+    <Transaction>2020/05/01 10:42:45.000.627,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\interfaces\Unit1.pas=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\interfaces\uResultadoSubtracao.pas</Transaction>
+    <Transaction>2020/05/01 11:03:16.000.750,=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\interfaces\Unit1.pas</Transaction>
+    <Transaction>2020/05/01 11:03:27.000.856,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\interfaces\Unit1.pas=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\interfaces\uTesteInterface.pas</Transaction>
+    <Transaction>2020/05/01 11:13:55.000.667,=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\interfaces\Unit1.pas</Transaction>
+    <Transaction>2020/05/01 11:14:08.000.917,C:\Users\Andre\Desktop\Treinamento_Tecnospeed\interfaces\Unit1.pas=C:\Users\Andre\Desktop\Treinamento_Tecnospeed\interfaces\UDependencyInjection.pas</Transaction>
+  </Transactions>
+</BorlandProject>

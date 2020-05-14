@@ -1,0 +1,36 @@
+unit myComponent;
+
+interface
+
+uses
+  System.Classes;
+
+
+procedure register;
+
+
+type
+  TMyComponent = class(TComponent)
+  private
+
+  public
+    function LengthString(const AValue: string): Integer;
+  protected
+
+  end;
+
+implementation
+
+procedure register;
+begin
+  RegisterComponents('Treinamento', [TMyComponent]);
+end;
+
+{ TMyComponent }
+
+function TMyComponent.LengthString(const AValue: string): Integer;
+begin
+  Result := Length(AValue);
+end;
+
+end.
